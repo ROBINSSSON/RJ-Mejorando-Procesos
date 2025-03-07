@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #ff0000;
+    border: none;
+  }
+  
+
+  header {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  header img {
+    border-radius: 0%;
+  }
+  
+  main h2 {
+    color: #007bff;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+  }
+  
